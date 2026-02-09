@@ -23,19 +23,17 @@ My research lies in secret sharing and secure multi-party computation (MPC), wit
 
 
 
-Selected Publications
-======
-● Linear-Communication ACSS with Guaranteed Termination and Lower Amortized Bound
 
-  *Chengyi Qin, Mingqiang Wang, Haiyang Xue
+
+
+
+# Selected Publications
+* Linear-Communication ACSS with Guaranteed Termination and Lower Amortized Bound
+  * Chengyi Qin, Mingqiang Wang, Haiyang Xue
+  * EUROCRYPT 2026 [link](https://example.com)
+* Guaranteed Termination Asynchronous Complete Secret Sharing with Lower Communication and Optimal Resilience
+  * Ying Cai, Chengyi Qin, Mingqiang Wang
+  * ACISP 2025 [link](https://link.springer.com/chapter/10.1007/978-981-96-9098-5_15)
+
+
   
-  *EUROCRYPT 2026
-
-● Guaranteed Termination Asynchronous Complete Secret Sharing with Lower Communication and Optimal Resilience
-
-  *Ying Cai, Chengyi Qin, Mingqiang Wang 
-  
-  *ACISP 2025 [link](https://link.springer.com/chapter/10.1007/978-981-96-9098-5_15)
-
-
-
