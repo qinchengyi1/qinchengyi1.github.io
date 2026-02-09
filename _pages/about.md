@@ -13,8 +13,11 @@ I am Chengyi Qin, a PhD candidate in Information Security at the School of Mathe
 My research lies in secret sharing and secure multi-party computation (MPC), with interests in verifiable/asynchronous secret sharing, distributed key generation, and threshold cryptography.
 
 [Email (Personal)](mailto:qcy521111@163.com) ·
+
 [Email (SDU)](mailto:cyqin@mail.sdu.edu.cn) ·
+
 [Email (SMU)](mailto:cyqin@smu.edu.sg) ·
+
 [Wechat](qinchengyiwechat.png) 
 
 
@@ -22,12 +25,16 @@ My research lies in secret sharing and secure multi-party computation (MPC), wit
 
 Selected Publications
 ======
-*Linear-Communication ACSS with Guaranteed Termination and Lower Amortized Bound
+● Linear-Communication ACSS with Guaranteed Termination and Lower Amortized Bound
+
   *Chengyi Qin, Mingqiang Wang, Haiyang Xue
+  
   *EUROCRYPT 2026
 
-*Guaranteed Termination Asynchronous Complete Secret Sharing with Lower Communication and Optimal Resilience
+● Guaranteed Termination Asynchronous Complete Secret Sharing with Lower Communication and Optimal Resilience
+
   *Ying Cai, Chengyi Qin, Mingqiang Wang 
+  
   *ACISP 2025 [link](https://link.springer.com/chapter/10.1007/978-981-96-9098-5_15)
 
 
