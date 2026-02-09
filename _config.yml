@@ -13,7 +13,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://qinchengyi1.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,13 +24,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chengyi Qin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student @ Shandong University | Visiting @ SMU | Secret Sharing & MPC"
+  location         : "Singapore / Jinan"
+  employer         : "Shandong University · Visiting at SMU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cyqin@mail.sdu.edu.cn" 
+  links:
+  - label: "Email (SDU)"
+    icon: "fas fa-envelope"
+    url: "mailto:cyqin@mail.sdu.edu.cn"
+  - label: "Email (SMU)"
+    icon: "fas fa-envelope"
+    url: "mailto:cyqin@smu.edu.sg"
+  - label: "Email (Personal)"
+    icon: "fas fa-envelope"
+    url: "mailto:qcy521111@163.com"
 
   # Academic websites
   academia         : # URL
